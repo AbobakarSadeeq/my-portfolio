@@ -80,3 +80,18 @@
   background-color: #808080;
   text-align: center;
 }
+
+.copyright-footer {
+  height: 2%;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #131a22;
+  color: white;
+  text-align: center;
+  /* position:fixed;  */
+}
+.copyright-footer p {
+  padding-top: 3px;
+  margin: 0;
+}
