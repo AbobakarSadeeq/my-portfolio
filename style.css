@@ -95,3 +95,20 @@
   padding-top: 3px;
   margin: 0;
 }
+
+.all-ul-side-effects-remove {
+  padding-left: 1rem;
+  margin-bottom: 0px;
+}
+
+.skills-header {
+  font-weight: bolder;
+}
+
+.contact-me-header {
+  font-weight: bolder;
+}
+
+.companies-names-header {
+  font-weight: bolder;
+}
